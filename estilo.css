@@ -1,0 +1,31 @@
+.cuerpo{
+margin: 0px auto 0px auto;
+width:450px;
+height:auto;
+background-color:#F3E2A9;
+}
+.formulario{
+width:auto;
+height:auto;
+margin: 0px auto;
+padding-top:20px;
+}
+input{
+border-radius:10px;
+text-align:right;
+}
+.boton{
+width:100px;
+margin: 0px auto;
+float:right;
+text-align:center;
+}
+legend {font-weight:bold;}
+
+label {
+text-align:right;
+padding-right:25px;
+  width: 40%;
+  float: left;
+}
+.cent{padding-right:15px;}
